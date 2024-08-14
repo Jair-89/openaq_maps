@@ -1,0 +1,201 @@
+smca,estado,red_monitoreo,municipio,id_estacion,nombre_estacion,clave_estacion,o3,co,so2,no2,pm2.5,pm10,ws,wd,tout,hr,pp,rs
+Aguascalientes,Aguascalientes,Aguascalientes,Aguascalientes,31,CBTIS,CBT,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Aguascalientes,Aguascalientes,Aguascalientes,Aguascalientes,32,Secretaría de Medio Ambiente,SMA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Aguascalientes,Aguascalientes,Aguascalientes,Aguascalientes,33,Centro,CEN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Aguascalientes,Aguascalientes,Aguascalientes,Aguascalientes,303,Instituto Educativo,IED,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Baja California - Estatal,Baja California,Mexicali,Mexicali,39,COBACH,SPABC14,SI,SI,NO,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Baja California - Estatal,Baja California,Mexicali,Mexicali,41,CESPM,SPABC19,SI,NO,NO,SI,SI,NO,SI,SI,SI,SI,SI,SI
+Baja California - Estatal,Baja California,Mexicali,Mexicali,371,UABC,SPABC12,SI,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Baja California - Estatal,Baja California,Tecate,Tecate,44,Tecate,SPABC23,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Baja California - Estatal,Baja California,Tijuana,Tijuana,46,Laboratorio,SPABC21,SI,SI,NO,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Baja California - Estatal,Baja California,Tijuana,Tijuana,47,La Mesa,SPABC03,NO,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Baja California - Estatal,Baja California,Tijuana,Tijuana,376,Instituto Tecnológico de Tijuana,SPABC01,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Baja California - Estatal,Baja California,Tijuana,Tijuana,405,Las Playas,SPABC05,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Baja California - Municipal,Baja California,Municipio de Mexicali,Mexicali,437,Palacio Municipal,PMN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,,
+Chiapas,Chiapas,Tuxtla Gutiérrez,Tuxtla Gutiérrez,50,Palacio Municipal,PMN,SI,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI
+Chihuahua - Ciudad Juárez,Chihuahua,Municipio de Juárez,Juárez,482,Clínica de Nutrición,UACJ,SI,NO,NO,SI,SI,SI,NO,NO,NO,NO,NO,NO
+Chihuahua - Ciudad Juárez,Chihuahua,Municipio de Juárez,Juárez,111,Canales Lira,CLB,SI,SI,NO,NO,NO,NO,SI,SI,SI,SI,SI,SI
+Chihuahua - Ciudad Juárez,Chihuahua,Municipio de Juárez,Juárez,112,Advance,ADV,SI,SI,NO,NO,NO,NO,SI,SI,SI,SI,SI,SI
+Chihuahua - Ciudad Juárez,Chihuahua,Municipio de Juárez,Juárez,407,Delphi,DEL,SI,SI,NO,NO,NO,NO,SI,SI,SI,SI,NO,NO
+Chihuahua - Ciudad Juárez,Chihuahua,Municipio de Juárez,Juárez,448,Planta de Tratamiento de Aguas Residuales Norte,PTN,SI,SI,NO,NO,NO,NO,SI,SI,SI,SI,SI,SI
+Chihuahua - Municipal,Chihuahua,CHIH2,Chihuahua,55,CIMAV,CIMAV,NO,SI,NO,NO,NO,SI,NO,NO,NO,NO,NO,NO
+Chihuahua - UACJ,Chihuahua,Ciudad Juárez 2 (UACJ),Juárez,428,Instituto de Ingeniería y Tecnología,IIT,SI,SI,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO
+Chihuahua -Estatal,Chihuahua,CHIH1,Chihuahua,53,SUR,SUR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Chihuahua -Estatal,Chihuahua,CHIH1,Chihuahua,54,Centro,CEN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Ciudad de México,Ciudad de México,Valle de México,Acolman,240,Acolman,ACO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Álvaro Obregón,259,Pedregal,PED,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Azcapotzalco,244,Camarones,CAM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Benito Juárez,300,Benito Juárez,BJU,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Chalco,246,Chalco,CHO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Coyoacán,245,Centro de Ciencias de la Atmósfera,CCA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Coyoacán,247,Coyoacán,COY,SI,NO,NO,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Coyoacán,269,UAM Xochimilco,UAX,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Cuajimalpa de Morelos,248,Cuajimalpa,CUA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Cuajimalpa de Morelos,262,Santa Fe,SFE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Cuauhtémoc,251,Hospital General de México,HGM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Ecatepec de Morelos,254,Los Laureles,LLA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Ecatepec de Morelos,260,San Agustín,SAG,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Ecatepec de Morelos,271,Xalostoc,XAL,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Gustavo A. Madero,261,San Juan de Aragón,SJA,SI,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Gustavo A. Madero,302,Gustavo A. Madero,GAM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Iztacalco,252,Iztacalco,IZT,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Iztapalapa,268,UAM Iztapalapa,UIZ,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Iztapalapa,432,Santiago Acahualtepec,SAC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Miguel Hidalgo,263,Miguel Hidalgo,MGH,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Milpa Alta,299,Milpa Alta,MPA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Naucalpan de Juárez,250,FES Acatlán,FAC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Nezahualcóyotl,258,Nezahualcóyotl,NEZ,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Nezahualcóyotl,431,FES Aragón,FAR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Ocoyoacac,301,Instituto Nacional de Investigaciones Nucleares,INN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tepotzotlán,249,Cuautitlán,CUT,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Texcoco,257,Montecillo,MON,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tláhuac,265,Tlahuac,TAH,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tlalnepantla de Baz,253,La Presa,LPR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tlalnepantla de Baz,266,Tlalnepantla,TLA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tlalpan,241,Ajusco,AJU,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tlalpan,242,Ajusco Medio,AJM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tultitlán,267,Tultitlán,TLI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Venustiano Carranza,256,Merced,MER,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Atizapán de Zaragoza,243,Atizapán,ATI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Coacalco,270,Villa de las Flores,VIF,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Miguel Hidalgo,334,Tacuba,TAC,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Tlalpan,336,Tlalpan,TPN,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Coyoacán,400,Santa Ursula,SUR,SI,SI,SI,SI,NO,SI,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Gustavo A. Madero,401,Vallejo,VAL,NO,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,Gustavo A. Madero,314,Aragón,ARA,NO,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,,315,Azcapotzalco,AZC,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO
+Ciudad de México,Ciudad de México,Valle de México,,318,Cuitláhuac,CUI,NO,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Coahuila,Coahuila,Monclova,Monclova,305,Jurisdicción Sanitaria,JUR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Coahuila,Coahuila,Piedras Negras,Zaragoza,306,Centro de Rehabilitación DIF,DIF,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Coahuila,Coahuila,Ramos Arizpe,Ramos Arizpe,486,Servicios Municipales,SMU,NO,NO,NO,NO,SI,SI,SI,SI,SI,SI,NO,SI
+Coahuila,Coahuila,Saltillo,Saltillo,304,Finanzas,FIN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Coahuila,Coahuila,Torreón,Torreón,56,CONALEP,CNP,NO,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Durango,Durango,Durango,Durango,58,ITD,ITD,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,SI
+Durango,Durango,Durango,Durango,59,IPN,IPN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,SI
+Durango,Durango,Durango,Durango,60,SRNyMA,SRN,SI,SI,SI,SI,SI,SI,NO,SI,SI,SI,NO,SI
+Durango,Durango,Gómez Palacio,Gómez Palacio,65,Campestre,CAM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Durango,Durango,Gómez Palacio,Gómez Palacio,430,Parque La Esperanza,ESP,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO,SI
+Durango,Durango,Lerdo,Lerdo,67,SAGARPA,SAG,SI,SI,SI,SI,SI,SI,NO,SI,SI,SI,NO,SI
+Durango,Durango,Lerdo,Lerdo,342,Tecnológico Lerdo,LE,SI,SI,SI,SI,SI,SI,NO,NO,SI,NO,NO,NO
+Guanajuato,Guanajuato,Abasolo,Abasolo,356,Presidencia Municipal,ABA,NO,NO,SI,NO,SI,NO,NO,NO,NO,NO,NO,NO
+Guanajuato,Guanajuato,Celaya,Celaya,68,Policía,POL,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Guanajuato,Guanajuato,Celaya,Celaya,69,Tecnológico,TEC,SI,NO,NO,SI,NO,SI,SI,SI,SI,SI,NO,NO
+Guanajuato,Guanajuato,Celaya,Celaya,70,San Juanico,SJ,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO,NO
+Guanajuato,Guanajuato,Guanajuato,Guanajuato,359,Universidad Gto Sede Belen,UG-B,NO,NO,NO,NO,SI,NO,SI,SI,SI,NO,NO,NO
+Guanajuato,Guanajuato,Irapuato,Irapuato,71,Sec. Oficial,SEC,SI,SI,SI,SI,NO,SI,NO,SI,SI,SI,NO,NO
+Guanajuato,Guanajuato,Irapuato,Irapuato,72,Bomberos,BOM,SI,SI,SI,SI,SI,SI,NO,NO,SI,NO,NO,NO
+Guanajuato,Guanajuato,Irapuato,Irapuato,73,Teódula,TEO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,SI
+Guanajuato,Guanajuato,León,León,74,CICEG - Bomberos,CC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Guanajuato,Guanajuato,León,León,75,Facultad de Medicina,FM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Guanajuato,Guanajuato,León,León,76,T21,T21,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO,SI
+Guanajuato,Guanajuato,Purísima del Rincón,Purísima del Rincón,423,Purísima del Rincón,PUR,SI,NO,NO,NO,NO,SI,SI,SI,SI,SI,NO,NO
+Guanajuato,Guanajuato,Salamanca,Salamanca,77,Cruz roja,CR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,SI
+Guanajuato,Guanajuato,Salamanca,Salamanca,78,DIF,DIF,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,SI
+Guanajuato,Guanajuato,Salamanca,Salamanca,79,Nativitas,NAT,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,NO,SI
+Guanajuato,Guanajuato,San Luis de la Paz,San Luis de la Paz,358,Presidencia Municipal,SLP,NO,NO,NO,NO,NO,SI,NO,NO,NO,NO,NO,NO
+Guanajuato,Guanajuato,San Miguel de Allende,San Miguel de Allende,352,Presidencia Municipal,PRE-SMA,NO,NO,NO,NO,SI,NO,NO,SI,SI,NO,NO,NO
+Guanajuato,Guanajuato,Silao,Silao de la Victoria,80,Hospital General,HG,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Hidalgo,Hidalgo,Atitalaquia,Atitalaquia,82,Centro de Salud,ATI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Atotonilco,Atotonilco de Tula,83,Primaria Revolución,ATO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Huichapan,Huichapan,85,Hospital,HUI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Mixquiahuala de Juárez,Actopan,487,Primaria Amado Nervo,PAN,SI,NO,SI,NO,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Pachuca,Pachuca de Soto,92,Jardín del Maestro,JDN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Pachuca,Pachuca de Soto,93,Museo del Rehilete,REH,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Tepeapulco,Tepeapulco,84,Estación de Bomberos de Cd. Sahagún,TEP,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Tepeji,Tepeji del Río de Ocampo,87,Primaria Melchor Ocampo,TPJ,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Tizayuca,Tizayuca,96,Biblioteca,TIZ,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Tula,Tula de Allende,89,Hospital Regional,HRE,NO,SI,NO,SI,NO,NO,NO,NO,NO,NO,NO,NO
+Hidalgo,Hidalgo,Tula,Tula de Allende,90,Centro de Salud,CSA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Hidalgo,Hidalgo,Tula,Tula de Allende,442,Universidad Tecnológica de Tula Tepeji,UTTT,SI,SI,SI,SI,SI,SI,NO,NO,NO,SI,NO,NO
+Hidalgo,Hidalgo,Tulancingo,Tulancingo de Bravo,292,Tulancingo,TLN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,El Salto,104,Las Pintas,PIN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Guadalajara,102,Centro,CEN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Guadalajara,106,Miravalle,MIR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Guadalajara,107,Oblatos,OBL,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Tlajomulco de Zúñiga,108,Santa Fe,SFE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Tonalá,105,Loma Dorada,LDO,SI,SI,SI,SI,SI,SI,NO,NO,NO,NO,SI,SI
+Jalisco,Jalisco,Guadalajara,Zapopan,101,Atemajac,ATM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Zapopan,103,Las Águilas,AGU,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,Zapopan,110,Vallarta,VAL,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Jalisco,Jalisco,Guadalajara,,109,Tlaquepaque,TLA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,Almoloya de Juárez,456,Almoloya de Juárez,AJ,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,Calimaya,458,Calimaya,CA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,San Mateo Atenco,128,San Mateo Atenco,SM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,Toluca,122,Aeropuerto,AP,SI,SI,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO
+México,Estado de México,Toluca,Toluca,124,Toluca Centro,CE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+México,Estado de México,Toluca,Xonacatlán,457,Xonacatlán,XO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,Toluca,123,Ceboruco,CB,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,,125,Metepec,MT,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+México,Estado de México,Toluca,,126,Oxtotitlán,OX,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+México,Estado de México,Toluca,,127,San Cristobal,SC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+México,Estado de México,Toluca,,385,San Lorenzo Tepaltitlán,SL,SI,NO,SI,SI,NO,SI,NO,NO,NO,NO,NO,NO
+Michoacán,Michoacán,Morelia,Morelia,131,Laboratorio de Salud,LAB,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Michoacán,Michoacán,Morelia,Morelia,388,Palacio Municipal,ECH,NO,NO,NO,NO,NO,SI,NO,NO,NO,NO,NO,NO
+Michoacán,Michoacán,Morelia,,129,Universidad Michoacana de San Nicolás Hidalgo,ECU,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Morelos,Morelos,Cuautla,Cuautla,132,Palacio Municipal Cuautla,PMNC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Morelos,Morelos,Cuernavaca,Cuernavaca,134,Cuernavaca 01,PGO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Morelos,Morelos,Ocuituco,Ocuituco,133,Palacio Municipal,PMNO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Morelos,Morelos,Zacatepec,Zacatepec,135,Tecnológico de Zacatepec,TEC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nayarit,Nayarit,Tepic,Tepic,136,Tecnológico de Tepic,TEC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nayarit,Nayarit,Tepic,Tepic,480,Universidad,UAN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nayarit,Nayarit,Tepic,Tepic,137,Escuela Primaria Julian Gazcon,PRIM,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Apodaca,146,Apodaca,NE2,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Cadereyta Jiménez,424,Cadereyta,SE3,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,García,145,García,NO2,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,García,479,Misión San Juan,NO3,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,General Escobedo,144,Escobedo,N,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Guadalupe,143,La Pastora,SE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Juárez,147,Juárez,SE2,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Monterrey,140,San Bernabé,NO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Monterrey,141,Obispado,CE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Monterrey,426,Pueblo Serena,SUR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Pesquería,446,Pesquería,NE3,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,San Nicolás de los Garza,142,San Nicolás,NE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,San Nicolás de los Garza,425,Universidad,N2,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,San Pedro Garza García,148,San Pedro,SO2,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Nuevo León,Nuevo León,Monterrey,Santa Catarina,139,Santa Catarina,SO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Oaxaca,Oaxaca,Oaxaca,Oaxaca de Juárez,160,Centro de Educación Artística,CED,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,SI
+Oaxaca,Oaxaca,Oaxaca,Oaxaca de Juárez,297,Casa Hogar,CHO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Atlixco,484,Atlixco,ATL,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Coronango,165,Velódromo,VEL,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Puebla,161,Agua Santa,STA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Puebla,162,Las Ninfas,NIN,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Puebla,163,Benemérito Instituto Normal del Estado,BINE,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Puebla,406,Universidad Tecnológica de Puebla,UTP,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Puebla,429,Serdán,SER,SI,NO,NO,SI,SI,SI,NO,NO,NO,NO,NO,NO
+Puebla,Puebla,Puebla,San Martín Texmelucan,485,San Martín Texmelucan,SMT,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Puebla,Puebla,Puebla,Tehuacán,483,Tehuacán,TEH,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+Querétaro,Querétaro,San Juan del Rio,San Juan del Río,410,San Juan del Río,SJR,SI,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Corregidora,450,Corregidora,COR,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,El Marqués,451,El Marqués,EMA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,168,Epigmenio González Anterior,EPG-O,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,169,Félix Osores,FEO,SI,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,170,Centro,CEN,SI,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,408,Carrillo Puerto,CAP,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,409,Auditorio Josefa Ortíz,AJO,SI,SI,SI,SI,NO,SI,NO,NO,NO,NO,NO,NO
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,452,Carrillo Puerto Anterior,CAP-O,SI,SI,SI,SI,NO,SI,NO,NO,NO,NO,NO,NO
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,453,Felix Osores Anterior,FEO-O,SI,SI,SI,SI,SI,NO,NO,NO,NO,NO,NO,NO
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,454,Josefa Vergara,JOV,SI,SI,SI,SI,SI,NO,SI,SI,SI,SI,NO,NO
+Querétaro,Querétaro,Zona Metropolitana de Querétaro,Querétaro,460,Epigmenio González,EPG,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+San Luis Potosí,San Luis Potosí,San Luis Potosí Estatal,San Luis Potosí,171,Industriales Potosinos Asociados,IPAC,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+San Luis Potosí,San Luis Potosí,San Luis Potosí Estatal,San Luis Potosí,172,DIF,DIF,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+San Luis Potosí,San Luis Potosí,San Luis Potosí Estatal,San Luis Potosí,173,Facultad Psicología,FPS,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,NO,NO
+San Luis Potosí,San Luis Potosí,San Luis Potosí Estatal,San Luis Potosí,174,Biblioteca,BIB,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+San Luis Potosí,San Luis Potosí,San Luis Potosí Estatal,San Luis Potosí,427,Escuela Primaria 1° de mayo,PRIM,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI,SI
+San Luis Potosí,San Luis Potosí,ZM de Rioverde - Cd Fernández,Rioverde,481,Rioverde,RIV,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI,NO
+Sonora,Sonora,Nogales,Nogales,187,Instituto Tecnológico de Nogales,TEC,NO,NO,NO,NO,SI,SI,SI,SI,SI,SI,NO,NO
+Sonora,Sonora,San Luis Río Colorado,San Luis Río Colorado,190,San Luis Río Colorado,SLR,SI,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Tabasco,Tabasco,Centro,Centro,192,Instituto Tecnológico de Villahermosa,ITVH,SI,SI,SI,NO,NO,SI,NO,NO,NO,NO,NO,NO
+Tlaxcala,Tlaxcala,Apizaco,Apizaco,438,Centro de Salud,CSA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+Tlaxcala,Tlaxcala,Calpulalpan,Calpulalpan,221,Calpulalpan,CAL,NO,NO,NO,NO,SI,NO,NO,NO,SI,SI,NO,NO
+Tlaxcala,Tlaxcala,Huamantla,Huamantla,222,Huamantla,HUA,NO,NO,NO,NO,SI,NO,NO,NO,SI,SI,NO,NO
+Tlaxcala,Tlaxcala,Tlaxcala,Tlaxcala,220,Palacio de Gobierno,PGO,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,Coatzacoalcos,Coatzacoalcos,476,Bomberos y Protección Civil Municipal,CTZ-05,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,Minatitlán,Minatitlán,234,Instituto Tecnológico de Minatitlán,MIN-01,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,Poza Rica,Poza Rica de Hidalgo,291,USBI UV Poza Rica,PR-03,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,San Andrés Tuxtla,San Andrés Tuxtla,477,Poder Judicial del Estado,SAT-06,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,Tuxpan,Tuxpan,478,Clínica Hospital ISSSTE,TUX-07,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,Veracruz,Veracruz,447,Cruz Roja Mexicana,VER-04,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Veracruz,Veracruz,Xalapa,Xalapa,235,Secretaría de Trabajo y Previsión Social y de Productividad del Estado,XAL-02,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
+Yucatán,Yucatán,Mérida,Mérida,236,SDS01,CEN,SI,SI,SI,SI,SI,NO,SI,SI,SI,SI,SI,SI
+Zacatecas,Zacatecas,Zacatecas,Zacatecas,294,Explanada del Congreso,CDA,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI
