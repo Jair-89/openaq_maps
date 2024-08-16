@@ -1,5 +1,5 @@
 # openaq_maps
-------------------------------------------------------------
+
 ## Introducción
 
 En México, la contaminación atmosférica ha sido estudiada desde los 80's, teniendo como primeros pasos, el monitoreo de los contaminantes contaminantes denominados criterio y es aquí cuando surgen las siguientes investigaciones enfocadas en el impacto a la salud y el medio ambiente. Lamentablemente, este avance solo se vio reflejado en el centro del país y no hasta los 90's cuando otras ciudades metropolitanas comenzaron a indagar sobre el monitoreo del aire. Tarde o temprano, fue significativo obtener información para redactar las primeras leyes entorno al cuidado del aire mediante la restricción de las emisiones de distintas fuentes y posteriormente los límites máximos permisibles para el cuidado de la salud de la población.
