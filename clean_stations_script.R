@@ -21,18 +21,24 @@ dict_sinaica <- read.csv(
 status_stations_sinaica <- dict_sinaica |> 
   mutate(
     status_pol = case_when(
-      o3 == "NO" | so2 == "NO" | co == "NO" | no2 == "NO" | pm2.5 == "NO" | pm10 == "NO" ~ "Incomplete",
+      o3 == "NO" | so2 == "NO" | co == "NO" | no2 == "NO" | 
+        pm2.5 == "NO" | pm10 == "NO" ~ "Incomplete",
       .default = "Complete"
     ),
     status_meteo = case_when(
-      ws == "NO" | wd == "NO" | tout == "NO" | hr == "NO" | pp == "NO" | rs == "NO" ~ "Incomplete",
+      ws == "NO" | wd == "NO" | tout == "NO" | hr == "NO" | 
+        pp == "NO" | rs == "NO" ~ "Incomplete",
       .default = "Complete"
     )
-  ) |> print()
+  )
 
 count_par_pol <- status_stations_sinaica |> 
-  select(id_estacion,o3,co,so2,no2,pm2.5,pm10) |> 
-  pivot_longer(cols = 2:7, names_to = "par",values_to = "val") |>
+  select(
+    id_estacion,o3,co,so2,no2,pm2.5,pm10
+    ) |> 
+  pivot_longer(
+    cols = 2:7, names_to = "par",values_to = "val"
+    ) |>
   mutate(
     num_value = case_when(
       val == "SI" ~ 1,
@@ -40,14 +46,26 @@ count_par_pol <- status_stations_sinaica |>
       .default = 0
     )
   ) |> 
-  group_by(id_estacion) |> 
-  count(num_value) |> 
-  filter(num_value == 1) |> 
-  rename( station_yes_par_pol = n) 
+  group_by(
+    id_estacion
+    ) |> 
+  count(
+    num_value
+    ) |> 
+  filter(
+    num_value == 1
+    ) |> 
+  rename( 
+    station_yes_par_pol = n
+    ) 
 
 count_par_meteo <- status_stations_sinaica |> 
-  select(id_estacion,wd,ws,tout,hr,pp,rs) |> 
-  pivot_longer(cols = 2:7, names_to = "par",values_to = "val") |>
+  select(
+    id_estacion,wd,ws,tout,hr,pp,rs
+    ) |> 
+  pivot_longer(
+    cols = 2:7, names_to = "par",values_to = "val"
+    ) |>
   mutate(
     num_value = case_when(
       val == "SI" ~ 1,
@@ -55,14 +73,26 @@ count_par_meteo <- status_stations_sinaica |>
       .default = 0
     )
   ) |> 
-  group_by(id_estacion) |> 
-  count(num_value) |> 
-  filter(num_value == 1) |> 
-  rename( station_yes_par_meteo = n) 
+  group_by(
+    id_estacion
+    ) |> 
+  count(
+    num_value
+    ) |> 
+  filter(
+    num_value == 1
+    ) |> 
+  rename( 
+    station_yes_par_meteo = n
+    ) 
 
 clean_dir_sinaica <- status_stations_sinaica |> 
-  left_join(count_par_pol) |> 
-  left_join(count_par_meteo) |> 
+  left_join(
+    count_par_pol
+    ) |> 
+  left_join(
+    count_par_meteo
+    ) |> 
   mutate(
     station_yes_par_pol = case_when(
       is.na(station_yes_par_pol) ~ 0,
@@ -99,11 +129,29 @@ geo_station_rama <- read.csv(
     ) |> 
   rename(
     nombre_estacion = nom_estac,
-    lot = longitud,
+    lon = longitud,
     lat = latitud
   )
 
-clean_dir_sinaica <- clean_dir_sinaica |> 
-  left_join(geo_station_rama)
+final_dir_sinaica <- clean_dir_sinaica |> 
+  left_join(
+    geo_station_rama
+    ) |> 
+  filter(
+    lon != is.na(lon)
+  ) |> 
+  st_as_sf(
+    coords = c("lon","lat")
+  )
 
-map_data("world")
+map_cdmx <- final_dir_sinaica |> 
+  ggplot() +
+  geom_sf()
+
+
+map_data( "world",region = "Mexico") |>
+  filter( subregion != is.na(subregion) ) |> 
+  ggplot(aes(x=long,y=lat))+
+  geom_polygon(aes(group = group)
+    )
+
