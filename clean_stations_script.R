@@ -5,8 +5,7 @@ p_load(
   openair,
   openairmaps,
   fs,
-  sf,
-  
+  sf
 )
 
 path <- paste0(getwd(),"/data_base/")
